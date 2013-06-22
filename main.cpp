@@ -3,6 +3,8 @@
 #include "analyzer.h"
 #include <string>
 
+// this program is about a marks analyzer
+
 using namespace std;
 
 int main() {
